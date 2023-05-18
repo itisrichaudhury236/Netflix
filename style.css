@@ -1,0 +1,20 @@
+body{
+    background-image: url(netflix.jpg);
+    color: white;
+    background-size: 100%;
+    font-family: arial;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.container{
+     align-items: center;
+    background-color: rgba(0,0,0,0.5);
+    justify-content: center;
+    display: flex;
+    height: 600px;
+    
+}
+.main-container{
+    text-align: center;
+    width: 400px;
+}
